@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileIO", "FileIO\FileIO.csproj", "{A2453747-DC0D-4D0A-A303-F4875532ED1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerializationDemo", "SerializationDemo\SerializationDemo.csproj", "{9D8F6F12-DFF0-4FAC-924D-5BEDF8CC2B9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2453747-DC0D-4D0A-A303-F4875532ED1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2453747-DC0D-4D0A-A303-F4875532ED1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2453747-DC0D-4D0A-A303-F4875532ED1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2453747-DC0D-4D0A-A303-F4875532ED1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D8F6F12-DFF0-4FAC-924D-5BEDF8CC2B9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D8F6F12-DFF0-4FAC-924D-5BEDF8CC2B9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D8F6F12-DFF0-4FAC-924D-5BEDF8CC2B9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D8F6F12-DFF0-4FAC-924D-5BEDF8CC2B9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {24E7F166-4064-4B22-A60B-C976A559B96F}
+	EndGlobalSection
+EndGlobal
